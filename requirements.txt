@@ -3,5 +3,5 @@ pandas
 matplotlib
 yfinance
 plotly
-streamlit
+streamlit==1.9.0
 seaborn
